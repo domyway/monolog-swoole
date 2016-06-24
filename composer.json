@@ -15,6 +15,6 @@
         "textalk/websocket": "1.0.*"
     },
     "autoload": {
-        "psr-4": {"DOMYWAY": "src"}
+        "psr-4": {"DOMYWAY\\": "src"}
     }
 }
