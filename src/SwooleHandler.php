@@ -1,6 +1,6 @@
 <?php
 
-namespace SwooleHandler;
+namespace DOMYWAY;
 
 use Monolog\Logger;
 use Monolog\Handler\AbstractProcessingHandler;
