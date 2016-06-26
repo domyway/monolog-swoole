@@ -16,5 +16,6 @@
     },
     "autoload": {
         "psr-4": {"DOMYWAY\\": "src"}
-    }
+    },
+    "minimum-stability": "dev"
 }
